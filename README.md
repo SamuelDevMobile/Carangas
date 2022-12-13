@@ -58,3 +58,7 @@ dispositivo de teste: IPHONE 13 min
 ## Deletando Veículo.
 <img width="324" alt="Captura de Tela 2022-12-13 às 12 31 55" src="https://user-images.githubusercontent.com/26841238/207375626-dc975788-5121-42fb-8330-b195e70e3b11.png">
 
+## Agradecimentos
+
+* [Eric Alves Brito](https://www.linkedin.com/in/ericbrito)
+
