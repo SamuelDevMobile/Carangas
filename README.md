@@ -1,7 +1,7 @@
 # Aplicativo sobre Carros
 
 ## Introdução
-Este aplicativo tem como funcionalidade unica, de inserir os nomes dos jogadores que vão jogar algum jogo de pontuação e em seguida, conforme o jogo é iniciado, é possível somar os placares e ver qual foi os placares de todos os jogos que esses jogadores jogaram
+Este aplicativo foi construído para fins didáticos, apenas para conhecimento e incremento de conhecimentos no mundo de Mobile. Aplicativo consiste em consumir uma API a onde podemos cadastrar, editar, consultar e excluir carros.
 
 ## Configuração do projeto
 Ele pode ser baixado conforme abaixo:
