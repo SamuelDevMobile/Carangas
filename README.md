@@ -1,5 +1,40 @@
-# iOS_Carangas
+# Aplicativo sobre Carros
 
-#Dependencia
+## Introdução
+Este aplicativo tem como funcionalidade unica, de inserir os nomes dos jogadores que vão jogar algum jogo de pontuação e em seguida, conforme o jogo é iniciado, é possível somar os placares e ver qual foi os placares de todos os jogos que esses jogadores jogaram
 
-[esse aqui](https://github.com/uber/ios-snapshot-test-case)
+## Configuração do projeto
+Ele pode ser baixado conforme abaixo:
+```sh
+$ git clone https://github.com/SamuelDevMobile/IOS_Placar.git
+```
+Abra-o no seu Xcode
+
+<img width="500" alt="Captura de Tela 2022-10-05 às 01 07 39" src="https://user-images.githubusercontent.com/26841238/193979322-3454059f-cc98-4b8c-87ad-c385dadf2add.png">
+
+Execute o projeto no seguinte icone <img width="43" alt="Captura de Tela 2022-12-13 às 12 27 16" src="https://user-images.githubusercontent.com/26841238/207374439-d9f896f0-050b-4800-a44c-7db7dddf597e.png"> .
+
+
+## Dependência
+
+[iOSSnapshotTestCase](https://github.com/uber/ios-snapshot-test-case)
+
+## Tela Inicial
+> Apresentação do App
+<img width="288" alt="Captura de Tela 2022-12-13 às 12 29 25" src="https://user-images.githubusercontent.com/26841238/207375001-fda22849-b60f-4166-a08f-a5364736139d.png">
+
+## Listagem de Carros
+<img width="324" alt="Captura de Tela 2022-12-13 às 12 30 01" src="https://user-images.githubusercontent.com/26841238/207375128-3cf2a5bc-dead-4213-8094-260ad32cac9a.png">
+
+## Detalhamento do veículo 
+<img width="324" alt="Captura de Tela 2022-12-13 às 12 31 27" src="https://user-images.githubusercontent.com/26841238/207375504-8147d2fd-9d4a-44bd-adc6-13e2936d58fd.png">
+
+## Adicionar um veículo Carro
+<img width="324" alt="Captura de Tela 2022-12-13 às 12 30 43" src="https://user-images.githubusercontent.com/26841238/207375317-3aa6f023-7c70-4151-8177-5febc4066274.png">
+
+## Edicar veículo
+<img width="324" alt="Captura de Tela 2022-12-13 às 12 31 04" src="https://user-images.githubusercontent.com/26841238/207375402-94e9fc59-04d2-40f3-9152-b929cfd28660.png">
+
+## Deletando Veículo.
+<img width="324" alt="Captura de Tela 2022-12-13 às 12 31 55" src="https://user-images.githubusercontent.com/26841238/207375626-dc975788-5121-42fb-8330-b195e70e3b11.png">
+
