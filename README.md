@@ -39,6 +39,10 @@ dispositivo de teste: IPHONE 13 min
 ## Dependência
 [iOSSnapshotTestCase](https://github.com/uber/ios-snapshot-test-case)
 
+## Agradecimentos
+
+* [Eric Alves Brito](https://www.linkedin.com/in/ericbrito)
+
 ## Tela Inicial
 > Apresentação do App
 <img width="288" alt="Captura de Tela 2022-12-13 às 12 29 25" src="https://user-images.githubusercontent.com/26841238/207375001-fda22849-b60f-4166-a08f-a5364736139d.png">
@@ -57,8 +61,3 @@ dispositivo de teste: IPHONE 13 min
 
 ## Deletando Veículo.
 <img width="324" alt="Captura de Tela 2022-12-13 às 12 31 55" src="https://user-images.githubusercontent.com/26841238/207375626-dc975788-5121-42fb-8330-b195e70e3b11.png">
-
-## Agradecimentos
-
-* [Eric Alves Brito](https://www.linkedin.com/in/ericbrito)
-
