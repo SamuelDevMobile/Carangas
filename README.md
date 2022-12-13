@@ -53,7 +53,7 @@ dispositivo de teste: IPHONE 13 min
 ## Detalhamento do veículo 
 <img width="324" alt="Captura de Tela 2022-12-13 às 12 31 27" src="https://user-images.githubusercontent.com/26841238/207375504-8147d2fd-9d4a-44bd-adc6-13e2936d58fd.png">
 
-## Adicionar um veículo Carro
+## Adiciona um veículo
 <img width="324" alt="Captura de Tela 2022-12-13 às 12 30 43" src="https://user-images.githubusercontent.com/26841238/207375317-3aa6f023-7c70-4151-8177-5febc4066274.png">
 
 ## Edicar veículo
